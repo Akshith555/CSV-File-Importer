@@ -1,4 +1,4 @@
-package com.pixeltrice.springbootimportcsvfileapp;
+package com.project.springbootimportcsvfileapptester;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
